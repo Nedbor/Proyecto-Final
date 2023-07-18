@@ -1,0 +1,11 @@
+.display {
+    display: flex;
+    align-items: center;
+}
+
+div {
+    padding: 0% 8% 0% 8%;
+    text-align: justify;
+}
+
+  
